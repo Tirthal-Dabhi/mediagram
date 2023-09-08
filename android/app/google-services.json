@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "701775829619",
+    "firebase_url": "https://mediagram-chatapp-default-rtdb.firebaseio.com",
+    "project_id": "mediagram-chatapp",
+    "storage_bucket": "mediagram-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701775829619:android:61d8cdfab7cae8f2a4e806",
+        "android_client_info": {
+          "package_name": "com.example.mediagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701775829619-cl9l9j6blm3a6ulkn3s6lhh0n8tsl07c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mediagram",
+            "certificate_hash": "260386fd74ddcc600b074bda091a68bcafda5660"
+          }
+        },
+        {
+          "client_id": "701775829619-f87io3segf5hk5dst3hobnkf224l380q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0mkVW-e86xvjzrqrdaXjUW1Fx_6phueA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701775829619-7ducr405usnugrk342idusamnkvensut.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "701775829619-0uhnv0ig10rrttr5e5a7khm8ib13nnon.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mediagram.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

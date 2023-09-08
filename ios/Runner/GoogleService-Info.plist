@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>701775829619-st1ai3je1sj86fp2dan7qer2r7etpjdi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.701775829619-st1ai3je1sj86fp2dan7qer2r7etpjdi</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>701775829619-cl9l9j6blm3a6ulkn3s6lhh0n8tsl07c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDm4DdJosd0nhXuWF29FOQLh1yEeehR_bg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>701775829619</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mediagram</string>
+	<key>PROJECT_ID</key>
+	<string>mediagram-chatapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mediagram-chatapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:701775829619:ios:e7d088e30fc23578a4e806</string>
+	<key>DATABASE_URL</key>
+	<string>https://mediagram-chatapp-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
